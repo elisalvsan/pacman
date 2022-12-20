@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "VT323";
+  src: url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+}
+
+body {
+  margin: 100px;
+  background-color: black;
+  overflow-y: hidden;
+  overflow-x: hidden;
+
+  display: flex;
+  justify-content: center;
+}
+
+canvas {
+  align-items: center;
+}
+
+div {
+  display: none;
+}
